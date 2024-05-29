@@ -8,7 +8,7 @@ A simple web application for movie lover!!
 - manage your favorite list
 
 ### Searching
-type keyword of the movies in search bar
+type keywords of the movies in search bar
 
 ### Favorite List
 In index page, press the `+` button on the movie to keep it into favorite list.
